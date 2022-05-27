@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "f4dca906-cfca-4e14-abf1-6a66ce680e16",
+    "Name": "UsrAppRequest_ListPage",
+    "ModifiedOnUtc": "\/Date(1653666840000)\/",
+    "Parent": {
+      "UId": "a5678241-e5e0-f691-b825-84b6039d5fa2",
+      "Name": "BaseGridSectionTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Request list page",
+    "DependsOn": []
+  }
+}

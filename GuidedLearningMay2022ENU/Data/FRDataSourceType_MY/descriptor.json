@@ -1,0 +1,28 @@
+﻿{
+  "Descriptor": {
+    "UId": "d064d79e-5831-e04c-95db-6df030bca872",
+    "Name": "FRDataSourceType_MY",
+    "ModifiedOnUtc": "\/Date(1653579916000)\/",
+    "InstallType": 0,
+    "Schema": {
+      "UId": "069482a1-db1d-4821-9780-d20d75a63af6",
+      "Name": "FRDataSourceType"
+    },
+    "Columns": [
+      {
+        "ColumnUId": "35543653-78e7-4ee4-9b85-88890804d95c",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "Name",
+        "DataTypeValueUId": "325a73b8-0f47-44a0-8412-7606f78003ac"
+      },
+      {
+        "ColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+        "IsForceUpdate": false,
+        "IsKey": true,
+        "ColumnName": "Id",
+        "DataTypeValueUId": "23018567-a13c-4320-8687-fd6f9e3699bd"
+      }
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Edit page: &quot;Realty&quot;" />
+			<Item Name="LocalizableStrings.AvgPriceVirtualColumnCaption.Value" Value="Average price, USD" />
+			<Item Name="LocalizableStrings.AvgResultMessage.Value" Value="Average price: " />
+			<Item Name="LocalizableStrings.LOOKUP5eb81c3610274d4d824fb40ef19bf160Tip.Value" Value="Here is sample of a tooltip. It may be useful for a user." />
+			<Item Name="LocalizableStrings.MyButtonCaption.Value" Value="Reload visits!" />
+			<Item Name="LocalizableStrings.RecordsCountMessage.Value" Value="records count." />
+			<Item Name="LocalizableStrings.RunWebServiceButtonCaption.Value" Value="Run web service" />
+			<Item Name="LocalizableStrings.Tabb847dd7fTabLabelTabCaption.Value" Value="Visits" />
+			<Item Name="LocalizableStrings.UsrSchema580de495Detail5ad10659DetailCaptionOnPage.Value" Value="Realty visit" />
+			<Item Name="LocalizableStrings.ValueMustBeGreaterThanZero.Value" Value="Value must be greater than zero" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,206 @@
+﻿{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "ServiceSchemaManager",
+      "UId": "6cce7a78-5214-4be4-bd4c-772727ce6236",
+      "A2": "UsrGorestService",
+      "A5": "cd6bfd9c-9975-4ffe-8265-a53e2aecff0a",
+      "B1": [],
+      "B2": [],
+      "B3": [],
+      "B6": "cc49d036-3352-2df2-dfc6-01ede52312dc",
+      "B8": "8.0.1.1990",
+      "IQ1": "https://gorest.co.in",
+      "IQ2": 1,
+      "IQ7": [],
+      "IQ4": [
+        {
+          "UId": "3d858a03-ead4-4241-8cac-be49823022d1",
+          "A2": "UsrUserData",
+          "A3": "6cce7a78-5214-4be4-bd4c-772727ce6236",
+          "A4": "6cce7a78-5214-4be4-bd4c-772727ce6236",
+          "IR3": 5000,
+          "IR5": "null",
+          "IR1": {
+            "IW2": 1,
+            "IW1": [
+              {
+                "UId": "af2a4b98-fb2e-4fd1-b782-2371407a7453",
+                "A2": "UsrUserIdParameter",
+                "IU1": "UserId",
+                "IU2": "Text",
+                "IU8": "item",
+                "IU4": 2,
+                "IU5": {
+                  "IV1": "204",
+                  "IV2": 1
+                },
+                "IU6": []
+              }
+            ],
+            "IT2": 1,
+            "IT1": "/public/v2/users/{UserId}"
+          },
+          "IR2": {
+            "IW2": 1,
+            "IW1": [
+              {
+                "UId": "c0302e9a-e1e3-47a0-ada1-a6e3685380fc",
+                "A2": "UsrId",
+                "IU1": "$.id",
+                "IU2": "Integer",
+                "IU8": "item",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              },
+              {
+                "UId": "fae0afe3-1f34-4e21-86ce-be86b5f6cc75",
+                "A2": "UsrName",
+                "IU1": "$.name",
+                "IU2": "Text",
+                "IU8": "item",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              },
+              {
+                "UId": "fa9b7a92-7db7-469a-b42b-299f9a1ff47e",
+                "A2": "UsrEmail",
+                "IU1": "$.email",
+                "IU2": "Text",
+                "IU8": "item",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              },
+              {
+                "UId": "b2477517-7cb2-4c53-9d42-e4a4dd16c373",
+                "A2": "UsrGender",
+                "IU1": "$.gender",
+                "IU2": "Text",
+                "IU8": "item",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              },
+              {
+                "UId": "7f654d5f-68d9-451d-8f99-e7fc3764314e",
+                "A2": "UsrStatus",
+                "IU1": "$.status",
+                "IU2": "Text",
+                "IU8": "item",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              }
+            ]
+          }
+        },
+        {
+          "UId": "e1438bc9-2e11-4d6f-bb10-bd60b8c718b2",
+          "A2": "UsrUsersListMethod",
+          "A3": "6cce7a78-5214-4be4-bd4c-772727ce6236",
+          "A4": "6cce7a78-5214-4be4-bd4c-772727ce6236",
+          "IR3": 5000,
+          "IR5": "null",
+          "IR1": {
+            "IW2": 1,
+            "IW1": [],
+            "IT2": 1,
+            "IT1": "/public/v2/users"
+          },
+          "IR2": {
+            "IW2": 1,
+            "IW1": [
+              {
+                "UId": "8d932592-d6ed-48a3-b832-6b072fbb6cfc",
+                "A2": "UsrParameter",
+                "IU1": "$",
+                "IU2": "Object",
+                "IU3": true,
+                "IU8": "item",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": [
+                  {
+                    "UId": "e2cb46a4-f31a-4ec2-8f52-d96f69a5ae3f",
+                    "A2": "UsrId",
+                    "IU1": "id",
+                    "IU2": "Integer",
+                    "IU8": "item",
+                    "IU4": 1,
+                    "IU5": {
+                      "IV1": "null"
+                    },
+                    "IU6": []
+                  },
+                  {
+                    "UId": "7899a31c-4c4f-4ab3-a5b8-ae655895dc31",
+                    "A2": "UsrName",
+                    "IU1": "name",
+                    "IU2": "Text",
+                    "IU8": "item",
+                    "IU4": 1,
+                    "IU5": {
+                      "IV1": "null"
+                    },
+                    "IU6": []
+                  },
+                  {
+                    "UId": "d2031fdc-b131-4abb-b3e1-f383cfaad397",
+                    "A2": "UsrEmail",
+                    "IU1": "email",
+                    "IU2": "Text",
+                    "IU8": "item",
+                    "IU4": 1,
+                    "IU5": {
+                      "IV1": "null"
+                    },
+                    "IU6": []
+                  },
+                  {
+                    "UId": "b561c712-e23c-49bd-804f-c990f5ad7277",
+                    "A2": "UsrGender",
+                    "IU1": "gender",
+                    "IU2": "Text",
+                    "IU8": "item",
+                    "IU4": 1,
+                    "IU5": {
+                      "IV1": "null"
+                    },
+                    "IU6": []
+                  },
+                  {
+                    "UId": "9f17be02-c276-40f9-9e62-21e8bfd5d2a9",
+                    "A2": "UsrStatus",
+                    "IU1": "status",
+                    "IU2": "Text",
+                    "IU8": "item",
+                    "IU4": 1,
+                    "IU5": {
+                      "IV1": "null"
+                    },
+                    "IU6": []
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

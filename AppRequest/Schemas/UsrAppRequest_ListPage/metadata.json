@@ -1,0 +1,7 @@
+= MetaData.Schema.UId "f4dca906-cfca-4e14-abf1-6a66ce680e16"
+= MetaData.Schema.A2 "UsrAppRequest_ListPage"
+= MetaData.Schema.A5 "6f71e54c-1960-40c9-94f6-073fd67699ab"
+= MetaData.Schema.B6 "9a8a7c44-1a28-4d90-9701-accfbb360ba1"
+= MetaData.Schema.HD1 "a5678241-e5e0-f691-b825-84b6039d5fa2"
+- MetaData.Schema.B7
++ MetaData.Schema.B7 false

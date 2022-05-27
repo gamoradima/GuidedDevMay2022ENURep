@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "ae35c9d1-dc3f-402e-91f4-41270703e837",
+    "Name": "UsrGorestUser",
+    "ModifiedOnUtc": "\/Date(1653661645000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Gorest User",
+    "DependsOn": []
+  }
+}

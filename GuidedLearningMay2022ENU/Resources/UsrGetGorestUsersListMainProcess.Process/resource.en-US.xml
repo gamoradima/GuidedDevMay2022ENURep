@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.ConditionalSequenceFlow1.Caption" Value="success" />
+			<Item Name="BaseElements.DefaultSequenceFlow1.Caption" Value="Error" />
+			<Item Name="BaseElements.DeleteDataUserTask1.Caption" Value="delete users" />
+			<Item Name="BaseElements.DeleteDataUserTask1.Parameters.ConsiderTimeInFilter.Caption" Value="Consider time in the filter" />
+			<Item Name="BaseElements.DeleteDataUserTask1.Parameters.ConsiderTimeInFilter.DisplayValue" Value="true" />
+			<Item Name="BaseElements.DeleteDataUserTask1.Parameters.DataSourceFilters.Caption" Value="Data source filters" />
+			<Item Name="BaseElements.DeleteDataUserTask1.Parameters.EntitySchemaId.Caption" Value="Object" />
+			<Item Name="BaseElements.DeleteDataUserTask1.Parameters.IsMatchConditions.Caption" Value="Object must meet the following conditions" />
+			<Item Name="BaseElements.StartEvent1.Caption" Value="begin" />
+			<Item Name="BaseElements.SubProcess1.Caption" Value="Get Gorest User Subprocess 1" />
+			<Item Name="BaseElements.SubProcess1.Parameters.CompletedIterationsCount.Caption" Value="Number of completed instances" />
+			<Item Name="BaseElements.SubProcess1.Parameters.InputRecordCollection.Caption" Value="Input record collection" />
+			<Item Name="BaseElements.SubProcess1.Parameters.InputRecordCollection.DisplayValue" Value="[#https://gorest.co.in 1.Parameter#]" />
+			<Item Name="BaseElements.SubProcess1.Parameters.InputRecordCollection.ProcessSchemaParameter1.Caption" Value="Id" />
+			<Item Name="BaseElements.SubProcess1.Parameters.InputRecordCollection.ProcessSchemaParameter1.DisplayValue" Value="[#https://gorest.co.in 1.Parameter:Id#]" />
+			<Item Name="BaseElements.SubProcess1.Parameters.InputRecordCollection.ProcessSchemaParameter2.Caption" Value="Email" />
+			<Item Name="BaseElements.SubProcess1.Parameters.InputRecordCollection.ProcessSchemaParameter2.DisplayValue" Value="[#https://gorest.co.in 1.Parameter:Email#]" />
+			<Item Name="BaseElements.SubProcess1.Parameters.InputRecordCollection.ProcessSchemaParameter3.Caption" Value="Gender" />
+			<Item Name="BaseElements.SubProcess1.Parameters.InputRecordCollection.ProcessSchemaParameter3.DisplayValue" Value="[#https://gorest.co.in 1.Parameter:Gender#]" />
+			<Item Name="BaseElements.SubProcess1.Parameters.InputRecordCollection.ProcessSchemaParameter4.Caption" Value="Name" />
+			<Item Name="BaseElements.SubProcess1.Parameters.InputRecordCollection.ProcessSchemaParameter4.DisplayValue" Value="[#https://gorest.co.in 1.Parameter:Name#]" />
+			<Item Name="BaseElements.SubProcess1.Parameters.InputRecordCollection.ProcessSchemaParameter5.Caption" Value="Status" />
+			<Item Name="BaseElements.SubProcess1.Parameters.InputRecordCollection.ProcessSchemaParameter5.DisplayValue" Value="[#https://gorest.co.in 1.Parameter:Status#]" />
+			<Item Name="BaseElements.SubProcess1.Parameters.OutputRecordCollection.Caption" Value="Output record collection" />
+			<Item Name="BaseElements.SubProcess1.Parameters.TerminatedIterationsCount.Caption" Value="Number of terminated instances" />
+			<Item Name="BaseElements.SubProcess1.Parameters.TotalIterationsCount.Caption" Value="Total number of instances" />
+			<Item Name="BaseElements.TerminateEvent1.Caption" Value="End of main process" />
+			<Item Name="BaseElements.WebService1.Caption" Value="https://gorest.co.in 1" />
+			<Item Name="BaseElements.WebService1.Parameters.RequestBody.Caption" Value="Request body" />
+			<Item Name="BaseElements.WebService1.Parameters.Response.Caption" Value="Response body" />
+			<Item Name="BaseElements.WebService1.Parameters.StatusCode.Caption" Value="Http status code" />
+			<Item Name="BaseElements.WebService1.Parameters.Success.Caption" Value="Success" />
+			<Item Name="BaseElements.WebService1.Parameters.UsrParameter_Out.Caption" Value="Parameter" />
+			<Item Name="BaseElements.WebService1.Parameters.UsrParameter_Out.UsrEmail_Out.Caption" Value="Email" />
+			<Item Name="BaseElements.WebService1.Parameters.UsrParameter_Out.UsrGender_Out.Caption" Value="Gender" />
+			<Item Name="BaseElements.WebService1.Parameters.UsrParameter_Out.UsrId_Out.Caption" Value="Id" />
+			<Item Name="BaseElements.WebService1.Parameters.UsrParameter_Out.UsrName_Out.Caption" Value="Name" />
+			<Item Name="BaseElements.WebService1.Parameters.UsrParameter_Out.UsrStatus_Out.Caption" Value="Status" />
+			<Item Name="Caption" Value="Get Gorest Users Main Process" />
+			<Item Name="LaneSets.LaneSet1.Caption" Value="LaneSet 1" />
+			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Lane 1" />
+			<Item Name="NotificationCaption.Caption" Value="Process instance caption" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#Process name#]" />
+		</Items>
+	</Group>
+</Resources>

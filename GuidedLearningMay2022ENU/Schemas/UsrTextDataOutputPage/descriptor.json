@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "b502f050-355b-48fa-ac00-e7a47ae7c826",
+    "Name": "UsrTextDataOutputPage",
+    "ModifiedOnUtc": "\/Date(1653491933000)\/",
+    "Parent": {
+      "UId": "5826ff24-46c6-4169-9223-2aaad9ec2e18",
+      "Name": "BasePageSimpleProcessTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Text Output Page"
+  }
+}

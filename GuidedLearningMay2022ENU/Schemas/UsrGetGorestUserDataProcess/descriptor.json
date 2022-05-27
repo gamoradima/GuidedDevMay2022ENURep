@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "15e98d79-eed3-44a6-9e59-c18868b4dd28",
+    "Name": "UsrGetGorestUserDataProcess",
+    "ModifiedOnUtc": "\/Date(1653492045000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "UsrGetGorestUserDataProcess",
+    "DependsOn": []
+  }
+}

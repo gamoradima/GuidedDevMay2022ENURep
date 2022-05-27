@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Request form page" />
+			<Item Name="LocalizableStrings.Button_1lypfpa_caption.Value" Value="MY" />
+			<Item Name="LocalizableStrings.ChartWidget_8nuxvex_series_0.Value" Value="User session" />
+			<Item Name="LocalizableStrings.ChartWidget_8nuxvex_title.Value" Value="New chart" />
+		</Items>
+	</Group>
+</Resources>

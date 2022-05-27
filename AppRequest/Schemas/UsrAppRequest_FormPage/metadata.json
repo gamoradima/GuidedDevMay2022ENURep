@@ -1,0 +1,29 @@
+= MetaData.Schema.UId "68eb7695-ff2f-4f79-b03c-9e629fbcd95b"
+= MetaData.Schema.A2 "UsrAppRequest_FormPage"
+= MetaData.Schema.A5 "6f71e54c-1960-40c9-94f6-073fd67699ab"
++ MetaData.Schema.B2 {
+  "UId": "e2b08ae0-4d8a-6328-c3b9-ae7463b6d142",
+  "A2": "ChartWidget_8nuxvex_series_0",
+  "A3": "68eb7695-ff2f-4f79-b03c-9e629fbcd95b",
+  "A4": "68eb7695-ff2f-4f79-b03c-9e629fbcd95b",
+  "A5": "7be69fe1-d94d-4d0b-bf21-4475b88a0643"
+}
++ MetaData.Schema.B2 {
+  "UId": "868e8c89-7705-5f37-6c9f-30005914c8a1",
+  "A2": "ChartWidget_8nuxvex_title",
+  "A3": "68eb7695-ff2f-4f79-b03c-9e629fbcd95b",
+  "A4": "68eb7695-ff2f-4f79-b03c-9e629fbcd95b",
+  "A5": "7be69fe1-d94d-4d0b-bf21-4475b88a0643"
+}
++ MetaData.Schema.B2 {
+  "UId": "e1fd4e1a-2327-4f4b-c15b-4a68a565fe31",
+  "A2": "Button_1lypfpa_caption",
+  "A3": "68eb7695-ff2f-4f79-b03c-9e629fbcd95b",
+  "A4": "68eb7695-ff2f-4f79-b03c-9e629fbcd95b",
+  "A5": "7be69fe1-d94d-4d0b-bf21-4475b88a0643"
+}
+~ MetaData.Schema.B2 ["e2b08ae0-4d8a-6328-c3b9-ae7463b6d142","868e8c89-7705-5f37-6c9f-30005914c8a1","e1fd4e1a-2327-4f4b-c15b-4a68a565fe31"]
+= MetaData.Schema.B6 "9a8a7c44-1a28-4d90-9701-accfbb360ba1"
+= MetaData.Schema.HD1 "0f8eb896-7b62-4dfa-bd55-a414f50932a7"
+- MetaData.Schema.B7
++ MetaData.Schema.B7 false

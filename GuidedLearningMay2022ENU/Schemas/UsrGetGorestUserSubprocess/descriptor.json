@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "c47d2af4-4855-448f-bd3c-20689e0e1a4c",
+    "Name": "UsrGetGorestUserSubprocess",
+    "ModifiedOnUtc": "\/Date(1653662190000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Get Gorest User Subprocess",
+    "DependsOn": []
+  }
+}

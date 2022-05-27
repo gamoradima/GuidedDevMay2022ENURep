@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "da914920-893b-4549-a3a4-570f1dd47369",
+    "Name": "UsrHelloEndpointService",
+    "ModifiedOnUtc": "\/Date(1653665378000)\/",
+    "ManagerName": "ServiceSchemaManager",
+    "Caption": "HelloEndpointService",
+    "DependsOn": []
+  }
+}

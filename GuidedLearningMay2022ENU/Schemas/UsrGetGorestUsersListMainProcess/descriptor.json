@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "03da151b-16ba-4b80-be69-68cee6fcb3f9",
+    "Name": "UsrGetGorestUsersListMainProcess",
+    "ModifiedOnUtc": "\/Date(1653663170000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Get Gorest Users Main Process",
+    "DependsOn": []
+  }
+}

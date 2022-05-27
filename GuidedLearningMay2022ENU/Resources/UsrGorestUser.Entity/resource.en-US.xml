@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Gorest User" />
+			<Item Name="Columns.UsrEmail.Caption" Value="Email" />
+			<Item Name="Columns.UsrGender.Caption" Value="Gender" />
+			<Item Name="Columns.UsrId.Caption" Value="UsrId" />
+			<Item Name="Columns.UsrStatus.Caption" Value="Status" />
+		</Items>
+	</Group>
+</Resources>

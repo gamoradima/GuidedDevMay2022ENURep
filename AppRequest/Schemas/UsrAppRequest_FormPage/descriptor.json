@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "68eb7695-ff2f-4f79-b03c-9e629fbcd95b",
+    "Name": "UsrAppRequest_FormPage",
+    "ModifiedOnUtc": "\/Date(1653666773000)\/",
+    "Parent": {
+      "UId": "0f8eb896-7b62-4dfa-bd55-a414f50932a7",
+      "Name": "PageWithLeftAreaTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Request form page",
+    "DependsOn": []
+  }
+}

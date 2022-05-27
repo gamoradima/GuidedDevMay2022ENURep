@@ -1,0 +1,20 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "5cf66693-ca63-bd17-52e2-d86deaf58013"
+        },
+        {
+          "SchemaColumnUId": "12ab8df2-78ec-4bff-9b1d-3a8d451dd5e7",
+          "Value": "<?xml version=\"1.0\" encoding=\"utf-8\"?>\r\n<Report ScriptLanguage=\"CSharp\" ReportInfo.Created=\"05/26/2022 17:37:25\" ReportInfo.Modified=\"05/26/2022 18:17:33\" ReportInfo.CreatorVersion=\"2020.1.0.0\">\r\n  <Dictionary />\r\n  <ReportPage Name=\"Page1\" Watermark.Font=\"Arial, 60pt\">\r\n    <ReportTitleBand Name=\"ReportTitle1\" Width=\"718.2\" Height=\"56.7\">\r\n      <TextObject Name=\"Text1\" Left=\"264.6\" Top=\"9.45\" Width=\"160.65\" Height=\"18.9\" Text=\"REALTY LIST REPORT\" HorzAlign=\"Center\" Font=\"Arial, 10pt, style=Bold\" />\r\n    </ReportTitleBand>\r\n    <PageHeaderBand Name=\"PageHeader1\" Top=\"60.7\" Width=\"718.2\" Height=\"18.9\" />\r\n    <DataBand Name=\"Data1\" Top=\"83.6\" Width=\"718.2\" Height=\"75.6\" DataSource=\"Realty\">\r\n      <TextObject Name=\"Text3\" Width=\"94.5\" Height=\"18.9\" Text=\"Name:\" HorzAlign=\"Right\" Font=\"Arial, 10pt, style=Bold\" />\r\n      <TextObject Name=\"Text2\" Left=\"94.5\" Width=\"330.75\" Height=\"18.9\" Text=\"[Realty.UsrName]\" Font=\"Arial, 10pt\" />\r\n      <TextObject Name=\"Text4\" Top=\"18.9\" Width=\"94.5\" Height=\"18.9\" Text=\"Price, USD:\" HorzAlign=\"Right\" Font=\"Arial, 10pt, style=Bold\" />\r\n      <TextObject Name=\"Text5\" Left=\"94.5\" Top=\"18.9\" Width=\"160.65\" Height=\"18.9\" Text=\"[Realty.UsrPriceUSD]\" Format=\"Number\" Format.UseLocale=\"true\" Format.DecimalDigits=\"2\" WordWrap=\"false\" Font=\"Arial, 10pt\" Trimming=\"EllipsisCharacter\" />\r\n      <TextObject Name=\"Text7\" Top=\"37.8\" Width=\"94.5\" Height=\"18.9\" Text=\"Area, sq ft:\" HorzAlign=\"Right\" Font=\"Arial, 10pt, style=Bold\" />\r\n      <TextObject Name=\"Text8\" Left=\"94.5\" Top=\"37.8\" Width=\"160.65\" Height=\"18.9\" Text=\"[Realty.UsrAreaSqft]\" Format=\"Number\" Format.UseLocale=\"true\" Format.DecimalDigits=\"2\" WordWrap=\"false\" Font=\"Arial, 10pt\" Trimming=\"EllipsisCharacter\" />\r\n      <TextObject Name=\"Text9\" Left=\"425.25\" Width=\"56.7\" Height=\"18.9\" Text=\"Type:\" Font=\"Arial, 10pt, style=Bold\" />\r\n      <TextObject Name=\"Text10\" Left=\"481.95\" Width=\"141.75\" Height=\"18.9\" Text=\"[Realty.TypeName]\" Font=\"Arial, 10pt\" />\r\n      <TextObject Name=\"Text12\" Left=\"425.25\" Top=\"18.9\" Width=\"56.7\" Height=\"18.9\" Text=\"Offer:\" Font=\"Arial, 10pt, style=Bold\" />\r\n      <TextObject Name=\"Text13\" Left=\"481.95\" Top=\"18.9\" Width=\"141.75\" Height=\"18.9\" Text=\"[Realty.OfferTypeName]\" Font=\"Arial, 10pt\" />\r\n    </DataBand>\r\n    <PageFooterBand Name=\"PageFooter1\" Top=\"163.2\" Width=\"718.2\" Height=\"18.9\" />\r\n  </ReportPage>\r\n</Report>"
+        },
+        {
+          "SchemaColumnUId": "e80190a5-03b2-4095-90f7-a193a960adee",
+          "Value": "\/Date(1653576283789+0300)\/"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+﻿{
+  "Descriptor": {
+    "UId": "9a8a7c44-1a28-4d90-9701-accfbb360ba1",
+    "Name": "AppRequest",
+    "Type": 1,
+    "ModifiedOnUtc": "\/Date(1632313759000)\/",
+    "Maintainer": "Customer",
+    "ProjectPath": "Files/AppRequest.csproj",
+    "DependsOn": [
+      {
+        "UId": "613fd913-be03-46ce-909b-f44e4225469e",
+        "PackageVersion": "7.8.0",
+        "Name": "UIv2"
+      }
+    ]
+  }
+}

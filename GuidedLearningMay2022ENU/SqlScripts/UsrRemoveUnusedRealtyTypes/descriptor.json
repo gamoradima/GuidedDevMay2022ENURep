@@ -1,0 +1,10 @@
+﻿{
+  "SqlScript": {
+    "UId": "0ae94435-6fa4-0815-03fa-d94a91ce526c",
+    "Name": "UsrRemoveUnusedRealtyTypes",
+    "DBEngineType": 0,
+    "InstallType": 1,
+    "ModifiedOnUtc": "\/Date(1652884274000)\/",
+    "DependsOn": []
+  }
+}

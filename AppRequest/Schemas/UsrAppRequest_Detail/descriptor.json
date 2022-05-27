@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "eee94d11-51cd-4cae-a8d8-a288c1fe2ad1",
+    "Name": "UsrAppRequest_Detail",
+    "ModifiedOnUtc": "\/Date(1653666259000)\/",
+    "Parent": {
+      "UId": "01eb38ee-668a-42f0-999d-c2534f979089",
+      "Name": "BaseGridDetailV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Request detail",
+    "DependsOn": []
+  }
+}

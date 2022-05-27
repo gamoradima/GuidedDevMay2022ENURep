@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.AddDataUserTask1.Caption" Value="add visit" />
+			<Item Name="BaseElements.AddDataUserTask1.Parameters.ConsiderTimeInFilter.Caption" Value="Consider time in the filter" />
+			<Item Name="BaseElements.AddDataUserTask1.Parameters.ConsiderTimeInFilter.DisplayValue" Value="true" />
+			<Item Name="BaseElements.AddDataUserTask1.Parameters.DataSourceFilters.Caption" Value="Data source filters" />
+			<Item Name="BaseElements.AddDataUserTask1.Parameters.EntitySchemaId.Caption" Value="Object" />
+			<Item Name="BaseElements.AddDataUserTask1.Parameters.FilterEntitySchemaId.Caption" Value="Object" />
+			<Item Name="BaseElements.AddDataUserTask1.Parameters.RecordAddMode.Caption" Value="Record adding mode" />
+			<Item Name="BaseElements.AddDataUserTask1.Parameters.RecordDefValues.Caption" Value="Set column values" />
+			<Item Name="BaseElements.AddDataUserTask1.Parameters.RecordDefValues.Value.1f3a304e-d55a-4750-b0a9-bb398376bd73.displayValue" Value="Auto added data" />
+			<Item Name="BaseElements.AddDataUserTask1.Parameters.RecordDefValues.Value.1f3a304e-d55a-4750-b0a9-bb398376bd73.value" Value="Auto added data" />
+			<Item Name="BaseElements.AddDataUserTask1.Parameters.RecordId.Caption" Value="Created record Id" />
+			<Item Name="BaseElements.ConditionalSequenceFlow2.Caption" Value="count &gt; 0" />
+			<Item Name="BaseElements.DefaultSequenceFlow1.Caption" Value="count == 0" />
+			<Item Name="BaseElements.FormulaTask1.Caption" Value="dec count" />
+			<Item Name="BaseElements.FormulaTask2.Caption" Value="set RealtyId" />
+			<Item Name="BaseElements.ScriptTask1.Caption" Value="send websocket message to client" />
+			<Item Name="BaseElements.StartEvent1.Caption" Value="Manual start" />
+			<Item Name="BaseElements.StartSignal1.Caption" Value="realty added" />
+			<Item Name="BaseElements.StartSignal1.Parameters.RecordId.Caption" Value="Unique identifier of record" />
+			<Item Name="BaseElements.TerminateEvent1.Caption" Value="The end" />
+			<Item Name="Caption" Value="Add realty visits" />
+			<Item Name="LaneSets.LaneSet1.Caption" Value="LaneSet 1" />
+			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Lane 1" />
+			<Item Name="NotificationCaption.Caption" Value="Process instance caption" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#Process name#]" />
+			<Item Name="Parameters.ProcessSchemaParameter1.Caption" Value="Visits count" />
+			<Item Name="Parameters.ProcessSchemaParameter1.DisplayValue" Value="5" />
+			<Item Name="Parameters.RealtyIdParameter.Caption" Value="Realty id" />
+		</Items>
+	</Group>
+</Resources>

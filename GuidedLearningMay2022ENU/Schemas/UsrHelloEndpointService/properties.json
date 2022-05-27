@@ -1,0 +1,7 @@
+﻿{
+  "Properties": {
+    "BaseUri": "https://www.learnwebservices.com/services/hello",
+    "CreatedInVersion": "8.0.1.1990",
+    "Type": "Soap11"
+  }
+}

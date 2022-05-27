@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "be689b36-3e04-4eef-9566-719f54df2ec0",
+    "Name": "UsrSOAPTestProcess",
+    "ModifiedOnUtc": "\/Date(1653665594000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "SOAP Test Process",
+    "DependsOn": []
+  }
+}

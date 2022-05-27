@@ -1,0 +1,24 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "fbc7d6ee-a033-1d7f-b122-f4e1f4d266c1"
+        },
+        {
+          "SchemaColumnUId": "8280c0b2-8af4-45f1-8734-d547fc37d697",
+          "Value": "{\n\t\"ProviderName\": \"RealtyListReportDataProvider\",\n\t\"Schemas\": {\n\t\t\"Realty\": {\n\t\t\t\"UsrName\": {\n\t\t\t\t\"DataValueType\": 1\n\t\t\t},\n\t\t\t\"UsrPriceUSD\": {\n\t\t\t\t\"DataValueType\": 5\n\t\t\t},\n\t\t\t\"UsrAreaSqft\": {\n\t\t\t\t\"DataValueType\": 5\n\t\t\t},\n\t\t\t\"TypeName\": {\n\t\t\t\t\"DataValueType\": 1\n\t\t\t},\n\t\t\t\"OfferTypeName\": {\n\t\t\t\t\"DataValueType\": 1\n\t\t\t}\n\t\t}\n\t}\n}"
+        },
+        {
+          "SchemaColumnUId": "bf9497a7-6276-49f1-b7c0-121e2f8cf2b7",
+          "Value": "Creatio"
+        },
+        {
+          "SchemaColumnUId": "e80190a5-03b2-4095-90f7-a193a960adee",
+          "Value": "\/Date(1653576283829+0300)\/"
+        }
+      ]
+    }
+  ]
+}
